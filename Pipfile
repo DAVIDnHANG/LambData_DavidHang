@@ -10,6 +10,7 @@ twine = "*"
 numpy = "*"
 pandas = "*"
 string = "*"
+pandas-ml = "*"
 
 [requires]
 python_version = "3.8"
